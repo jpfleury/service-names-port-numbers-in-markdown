@@ -1,3 +1,5 @@
+[![GitHub Pages deployed](https://img.shields.io/badge/GitHub_Pages-deployed-2eba4e?logo=github&labelColor=32383f)]([https://jpfleury.github.io/ton-depot/](https://jpfleury.github.io/service-names-port-numbers-in-markdown/))
+
 # About this repository
 
 The [Service Name and Transport Protocol Port Number Registry](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) is available as a 12-column table in CSV, XML, HTML and plain text.
