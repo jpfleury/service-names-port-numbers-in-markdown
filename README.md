@@ -1,4 +1,4 @@
-[![GitHub Pages deployed](https://img.shields.io/badge/GitHub_Pages-deployed-2eba4e?logo=github&labelColor=32383f)]([https://jpfleury.github.io/ton-depot/](https://jpfleury.github.io/service-names-port-numbers-in-markdown/))
+[![GitHub Pages deployed](https://img.shields.io/badge/GitHub_Pages-deployed-2eba4e?logo=github&labelColor=32383f)](https://jpfleury.github.io/service-names-port-numbers-in-markdown/)
 
 # About this repository
 
